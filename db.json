@@ -1,0 +1,18 @@
+{
+  "Category": [
+    {
+      "id": "93d6",
+      "categoryName": "hello"
+    }
+  ],
+  "Product": [
+    {
+      "id": "69ad",
+      "productName": "Aryan Modi",
+      "category": "hello",
+      "Price": 4444,
+      "Description": "ddfgfgfgggfgfgggfg",
+      "Image": "https://res.cloudinary.com/dguyjd0no/image/upload/v1735707146/jxaao80kmugnht87fcxo.pdf"
+    }
+  ]
+}

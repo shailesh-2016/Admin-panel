@@ -1,18 +1,18 @@
 {
   "Category": [
     {
-      "id": "93d6",
-      "categoryName": "hello"
+      "id": "fc24",
+      "categoryName": "iPhone"
     }
   ],
   "Product": [
     {
-      "id": "69ad",
-      "productName": "Aryan Modi",
-      "category": "hello",
-      "Price": 4444,
-      "Description": "ddfgfgfgggfgfgggfg",
-      "Image": "https://res.cloudinary.com/dguyjd0no/image/upload/v1735707146/jxaao80kmugnht87fcxo.pdf"
+      "id": "ef87",
+      "productName": "iphone 16pro Max",
+      "category": "iPhone",
+      "Price": 139000,
+      "Description": "best smartphone",
+      "Image": "https://res.cloudinary.com/dguyjd0no/image/upload/v1741253909/iarngwab0rcsebhi59bk.jpg"
     }
   ]
 }

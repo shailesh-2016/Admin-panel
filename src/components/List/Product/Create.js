@@ -19,7 +19,7 @@ import { useNavigate } from 'react-router-dom'
 
 const Create = () => {
   const [userData, setData] = useState([])
-
+const redirect=useNavigate()
   async function showApi() {
     const res = await axios.get('http://localhost:5000/Category')
     setData(res.data)
@@ -58,7 +58,7 @@ const product = async (data) => {
     await axios.post('http://localhost:5000/Product', payload);
 
     reset();
-    Navigate('/');
+    // redirect('/View');
   } catch (error) {
     console.error('Error uploading image:', error);
   }
